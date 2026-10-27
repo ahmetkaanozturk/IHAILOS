@@ -1,5 +1,7 @@
 # IHAILOS — TEKNOFEST 2026 Sabit Kanat Otonomi ve Balistik Görev Motoru
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 IHAILOS, **TEKNOFEST 2026 TÜBİTAK Sabit Kanat İHA Yarışması (Görev 2)** için geliştirilmiş; gerçek zamanlı görüntü işleme, WGS84 coğrafi koordinat kestirimi, 2D Kalman hedef takibi, rüzgar kompanzasyonlu balistik yük bırakma ve emniyet kilitli sonlu durum makinesini (FSM) içeren çok iş parçacıklı bir otonom görev yazılımıdır.
 
 ---
@@ -56,3 +58,8 @@ python main.py --mavlink udp:127.0.0.1:14550 --camera http://127.0.0.1:8554/stre
 - **Mimarî Detaylar & Güvenlik Politikası:** [docs/architecture.md](docs/architecture.md)
 - **TEKNOFEST 2026 Şartname Kriterleri:** [docs/SARTNAME_SABIT_KANAT_2026.md](docs/SARTNAME_SABIT_KANAT_2026.md)
 - **Teknik Blueprint (AI Context):** [PROJECT_BLUEPRINT.md](PROJECT_BLUEPRINT.md)
+
+---
+
+## 📄 Lisans
+Bu proje [MIT Lisansı](LICENSE) altında açık kaynak olarak lisanslanmıştır.
