@@ -1,6 +1,6 @@
 # IHAILOS — TEKNOFEST 2026 Sabit Kanat Otonomi ve Balistik Görev Motoru
 
-> **Durum (20 Kasım 2026):** Bu depo TEKNOFEST 2026 TÜBİTAK Sabit Kanat İHA Yarışması için yazılmıştır ve o haliyle durmaktadır. Ekip şu anda TUSAŞ **İleri Otonom Sistemler Tasarım ve Operasyon Yarışması**'na hazırlanıyor; o yarışmanın yazılımı ayrı bir depoda (`ios-yazilim`) geliştiriliyor. Buradaki kod yeni yarışmanın görevini yapmaz; yalnız başvuru kaynağıdır. Kodun TÜBİTAK şartnamesine göre eksikleri ve bilinen hataları: [docs/GOREV_PLANI.md](docs/GOREV_PLANI.md).
+> **Durum (20 Kasım 2026):** Bu depo TEKNOFEST 2026 TÜBİTAK Sabit Kanat İHA Yarışması için yazılmıştır ve o haliyle durmaktadır. Ekip şu anda TEKNOFEST **İleri Otonom Sistemler Tasarım ve Operasyon Yarışması**'na (yürütücüsü TUSAŞ) hazırlanıyor; o yarışmanın yazılımı ayrı bir depoda (`ios-yazilim`) geliştiriliyor. Buradaki kod yeni yarışmanın görevini yapmaz; yalnız başvuru kaynağıdır. Kodun TÜBİTAK şartnamesine göre eksikleri ve bilinen hataları: [docs/GOREV_PLANI.md](docs/GOREV_PLANI.md).
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
